@@ -1,5 +1,3 @@
-# Image Gallery Project
-
-Image Gallery mini-project from my Tailwind course.
+# Image Gallery Projec.
 
 ![Alt text](images/image-gallery.png)
